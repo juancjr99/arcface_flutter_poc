@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    "appTitle": "ArcFace POC",
+    "@appTitle": {
+        "description": "App name shown in the AppBar"
+    }
+}
